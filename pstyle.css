@@ -8,9 +8,6 @@ body{
     background-color: rgb(248, 244, 244);
     flex-direction: column;
 }
-.piano{
-
-}
 #white{
     width: 450px;
     height: 15px;
