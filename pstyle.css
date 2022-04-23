@@ -7,6 +7,11 @@ body{
     display: flex;
     background-color: rgb(248, 244, 244);
     flex-direction: column;
+    background-image: url(pexels-pixabay-210764.jpg);
+    background-size: cover;
+}
+h2{
+  margin-right: 15px;
 }
 #white{
     width: 450px;
@@ -14,6 +19,7 @@ body{
     padding: 15px;
     background-color: white;
     border: solid 1px;
+    border-radius: 5px;
 
   }
   .w:hover{
